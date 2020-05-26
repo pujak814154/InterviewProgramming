@@ -10,7 +10,7 @@ public class SecondHighest {
         
 		for(int i = 0;i<no.length;i++)
 		{
-			System.out.println("MinElement "+ no[i]);
+//			System.out.println("MinElement "+ no[i]);
 		}
 //		or
 //		Arrays.sort(no);
